@@ -36,7 +36,7 @@ In this project, we analyze customer reviews for various Amazon products to unde
 5. Enjoy analyzing Amazon product reviews and understanding customer sentiment!
 
 📬 **Contact:**
-For any questions, feedback, or collaboration opportunities, feel free to reach out to me at `your-email@example.com`.
+For any questions, feedback, or collaboration opportunities, feel free to reach out to me at `(https://github.com/thecoderblue7)`.
 
 🌟 **Show your support:**
 If you find this project helpful or interesting, don't forget to ⭐️ star the repository to show your appreciation!
