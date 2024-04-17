@@ -1,8 +1,6 @@
 # Amazon-Product-Review-Analysis
 **(Sentiment Analysis)**
 
-Sure, here's a sample description for your GitHub repository:
-
 ---
 
 🚀 Welcome to my Amazon Product Review Analysis repository! 📦
